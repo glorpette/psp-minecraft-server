@@ -21,3 +21,7 @@ though, please note that ANY 1.21 based client will be able to join the server.
     - lets people create images of their liking (the industrial revolution..)  with a map in their hand
 - **CoreProtect** (Moderation)
     - lets the mods/admins track whenever anyone decides to be an idiot, roll it back and ban them
+- **banco** (Economy)
+    - item-based economy to enable more interactions between the players, item has yet to be decided (diamond ores?)
+- **ExcellentShop** (Economy)
+    - auction house + chest-based player shops to allow trading the items. perhaps without auction house and JUST player shops, yet to be decided, to bring interactions even further.
